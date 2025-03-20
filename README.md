@@ -41,7 +41,7 @@ This Python application creates an artistic visualization of facial features usi
 ### Quick Install
 1. Get the code:
    ```
-   git clone https://github.com/yourusername/face-landmark-visualizer
+   git clone https://github.com/imaginesamurai/face-landmark-visualizer
    cd face-landmark-visualizer
    ```
 
