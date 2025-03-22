@@ -30,7 +30,7 @@ This Python application creates an artistic visualization of facial features usi
 ## 🆘 Support & Community
 
 ### Get Help
-- [Open an Issue](https://github.com/yourusername/face-landmark-visualizer/issues)
+- [Open an Issue](https://github.com/imaginesamurai/face-landmark-visualizer/issues)
 
 
 ## 🛠 Setup
